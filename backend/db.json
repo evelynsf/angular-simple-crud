@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta CIS bpx 0.7",
+      "price": 10
+    },
+    {
+      "id": 2,
+      "name": "MAC BOOK PRO",
+      "price": 15000.99
+    },
+    {
+      "id": 3,
+      "name": "Borracha branca",
+      "price": 1
+    },
+    {
+      "name": "Kit marcadores de texto",
+      "price": 18.99,
+      "id": 4
+    }
+  ]
+}
